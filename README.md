@@ -276,9 +276,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@idanlips1](https://github.com/idanlips1)
+- LinkedIn: [Idan Lipschitz](www.linkedin.com/in/idan-lipschitz-b061a8301)
+- Email: idanlips@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -289,12 +289,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ **Star this repository if you found it helpful!**
 
-## 📞 Support
-
-For support, email your.email@example.com or create an issue in this repository.
-
----
-
-*Built with ❤️ for the developer community*
